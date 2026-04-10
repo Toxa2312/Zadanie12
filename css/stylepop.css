@@ -1,0 +1,37 @@
+@font-face {
+  font-family: DM Sans-Regular;
+  src: url(../font/DMSans-Regular.ttf);
+}
+@font-face {
+  font-family: DM Sans-Bold;
+  src: url(../font/DMSans-Bold.ttf);
+}
+@font-face {
+  font-family: DM Sans-Medium;
+  src: url(../font/DMSans-Medium.ttf);
+}
+body {
+  background-color: black;
+}
+
+.container {
+  justify-self: center;
+  align-items: center;
+  text-align: center;
+  width: 600px;
+  border-radius: 30px;
+  height: 545px;
+  background-color: #E03F5E;
+}
+
+.text1 {
+  font-family: DM Sans-Medium;
+  color: #ffffff;
+  font-size: 44px;
+}
+
+.text2 {
+  font-family: DM Sans-Regular;
+  color: #ffffff;
+  font-size: 18px;
+}/*# sourceMappingURL=stylepop.css.map */
